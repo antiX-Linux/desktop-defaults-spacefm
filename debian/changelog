@@ -1,0 +1,28 @@
+desktop-defaults-spacefm-antix (0.1.3) unstable; urgency=low
+ 
+  * Removed Desktop folder.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 29 Jun 2014 20:00:00 +0200
+
+
+desktop-defaults-spacefm-antix (0.1.2) unstable; urgency=low
+ 
+  * New default wallpaper.
+
+ -- anticapitalista <antiX@operamail.com>  Sat, 05 Apr 2014 21:20:00 +0200
+
+
+desktop-defaults-spacefm-antix (0.1.1) unstable; urgency=low
+ 
+  * Added customised spacefm.
+
+ -- anticapitalista <antiX@operamail.com>  Mon, 23 Dec 2013 16:30:00 +0200
+
+
+desktop-defaults-spacefm-antix (0.1.0) unstable; urgency=low
+ 
+  * Better modularisation.
+  * Initial release.
+
+ -- anticapitalista <antiX@operamail.com>  Mon, 16 Dec 2013 14:50:00 +0200
+

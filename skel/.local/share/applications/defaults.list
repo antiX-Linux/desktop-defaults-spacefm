@@ -1,0 +1,12 @@
+
+[Default Applications]
+text/html=dillo.desktop
+application/msword=abiword.desktop
+image/jpeg=feh.desktop
+text/plain=leafpad.desktop
+image/png=feh.desktop
+video/x-msvideo=gnome-mplayer.desktop
+application/pdf=epdfview.desktop
+audio/ogg=xmms
+audio/mpeg=xmms
+audio/x-flac=xmms
