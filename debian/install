@@ -1,3 +1,4 @@
 skel/.[a-zA-Z]*   /etc/skel
+spacefm/*         /etc/spacefm  
 changelog.gz      /usr/share/doc/desktop-defaults-spacefm-antix 
 copyright         /usr/share/doc/desktop-defaults-spacefm-antix 
