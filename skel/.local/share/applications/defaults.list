@@ -1,12 +1,12 @@
 
 [Default Applications]
 text/html=dillo.desktop
-application/msword=abiword.desktop
-image/jpeg=feh.desktop
+application/msword=lowriter.desktop
+image/jpeg=mirage.desktop
 text/plain=leafpad.desktop
-image/png=feh.desktop
+image/png=mirage.desktop
 video/x-msvideo=gnome-mplayer.desktop
-application/pdf=epdfview.desktop
+application/pdf=evince.desktop
 audio/ogg=xmms
 audio/mpeg=xmms
 audio/x-flac=xmms
