@@ -5,6 +5,7 @@
 # If you delete all session* files, SpaceFM will be reset to factory defaults.
 
 [General]
+single_click=1
 
 [Window]
 width=640
@@ -15,6 +16,11 @@ maximized=0
 show_wallpaper=1
 wallpaper=/usr/share/wallpaper/shells-massage-therapy-sand.jpg
 show_wm_menu=1
+desk_single_click=1
+bg1=4656,4125,12014
+bg2=0,0,1
+text=65535,65535,65535
+shadow=0,0,0
 
 [Interface]
 
