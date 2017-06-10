@@ -1,0 +1,24 @@
+[Default Applications]
+image/jpeg=mirage.desktop;
+image/png=mirage.desktop;
+image/bmp=mirage.desktop;
+audio/mpeg=xmms.desktop;
+audio/x-mpegurl=xmms.desktop;
+audio/ogg=xmms.desktop;
+audio/flac=xmms.desktop;
+application/x-shellscript=geany.desktop;
+application/pgp-encrypted=geany.desktop;
+application/x-iwork-keynote-sffkey=geany.desktop;
+text/plain=geany.desktop;
+image/x-xpixmap=mirage.desktop;
+video/x-msvideo=io.github.GnomeMpv.desktop;
+application/pdf=evince.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;
+application/msword=libreoffice-writer.desktop;
+application/vnd.ms-excel=libreoffice-calc.desktop;
+application/vnd.ms-powerpoint=libreoffice-impress.desktop;
+application/vnd.oasis.opendocument.presentation=libreoffice-impress.desktop;
+application/vnd.oasis.opendocument.spreadsheet=libreoffice-calc.desktop;
+application/vnd.oasis.opendocument.text=libreoffice-writer.desktop;
+application/vnd.openxmlformats-officedocument.presentationml.slideshow=libreoffice-impress.desktop;
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=libreoffice-calc.desktop;

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Encoding=UTF-8
-Name=xmms
-Exec=xmms
-MimeType=audio/ogg
-MimeType=audio/mpeg
-MimeType=audio/x-flac
-Icon=exec
-NoDisplay=true

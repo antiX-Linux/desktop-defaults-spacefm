@@ -4,5 +4,5 @@
 
 
 root_editor-s=leafpad
-main_terminal-s=roxterm
+main_terminal-s=lxterminal
 main_terminal-b=2

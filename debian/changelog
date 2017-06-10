@@ -1,20 +1,27 @@
-desktop-defaults-spacefm-antix (0.1.12) unstable; urgency=medium
+desktop-defaults-spacefm-antix (0.2.3) unstable; urgency=medium
 
-  * use single-click 
+  * New default mimetypes
 
- -- anticapitalista <antix@operamail.com>  Sun, 29 May 2016 15:09:10 +0300
+ -- anticapitalista <antix@operamail.com>  Fri, 21 Apr 2017 22:54:09 +0300
 
-desktop-defaults-spacefm-antix (0.1.11) unstable; urgency=medium
+desktop-defaults-spacefm-antix (0.2.2) unstable; urgency=medium
 
-  * Change pdf mime type to evince 
+  * Default wallpaper changed to metro-station
 
- -- anticapitalista <antix@operamail.com>  Tue, 19 Apr 2016 14:37:03 +0300
+ -- anticapitalista <antix@operamail.com>  Tue, 11 Apr 2017 18:20:48 +0300
 
-desktop-defaults-spacefm-antix (0.1.10) unstable; urgency=medium
+desktop-defaults-spacefm-antix (0.2.1) unstable; urgency=medium
 
-  * Changed default mime-types 
+  * Changed default to include dev_show_internal_drives-b=1 dev_unmount_quit-b=2
 
- -- anticapitalista <antix@operamail.com>  Sun, 17 Apr 2016 20:14:53 +0300
+ -- anticapitalista <antix@operamail.com>  Fri, 24 Mar 2017 18:05:33 +0200
+
+desktop-defaults-spacefm-antix (0.2.0) unstable; urgency=medium
+
+  * lxterminal now default
+  * new default wallpaper
+
+ -- anticapitalista <antix@operamail.com>  Sat, 18 Mar 2017 16:09:42 +0200
 
 desktop-defaults-spacefm-antix (0.1.9) unstable; urgency=low
  
